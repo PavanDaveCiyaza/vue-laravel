@@ -5,7 +5,7 @@ import Register from "../views/Register.vue";
 import Prectis from "../views/Prectis.vue";
 import Leyout from "../components/Leyout.vue";
 import AuthLeyout from "../components/AuthLeyout.vue"
-import store from "../store";
+import store from "../store/index"
 
 const routes = [
     {
